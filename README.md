@@ -10,4 +10,6 @@ STL and 123dx files developed by Autodesk 123D Design
 
 Note: 	url = https://github.com/hohno-46466/mZone--123D_Design
 
+Note:   url = git@github.com:hohno-46466/mZone--123D_Design.git
+
 -EOF-
