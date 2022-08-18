@@ -8,8 +8,8 @@ STL and 123dx files developed by Autodesk 123D Design
 * 20171227-4Kcamera-AW-UE70 has been moved
   https://github.com/hohno-46466/mZone--123D_Design--20171227-4Kcamera-AW-UE70.git
 
-Note: 	url = https://github.com/hohno-46466/mZone--123D_Design
+Note: URL = https://github.com/hohno-46466/mZone--123D_Design
 
-Note:   url = git@github.com:hohno-46466/mZone--123D_Design.git
+Note: URL = git@github.com:hohno-46466/mZone--123D_Design.git
 
 -EOF-
