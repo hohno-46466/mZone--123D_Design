@@ -16,12 +16,8 @@ Note: URL = git@github.com:hohno-46466/mZone--123D_Design.git
      ├──  README.md
      └──  README.md.old
      
-<<<<<<< HEAD
      0 directories, 2 files (Fri Nov 11 23:56:10 JST 2022)
 
-=======
-     0 directories, 2 files (Sun Nov  6 23:34:38 JST 2022)
->>>>>>> f918b10d160336fdbdd76bb9f4005b507925f7fc
 
 STL and 123dx files developed by Autodesk 123D Design
 
